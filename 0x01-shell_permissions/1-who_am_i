@@ -1,2 +1,2 @@
-#!/bin/bash
-echo "$USER"
+1 #!/bin/bash
+2 echo "$USER"
