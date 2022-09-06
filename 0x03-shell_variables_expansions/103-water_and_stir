@@ -1,0 +1,2 @@
+#!/bin/bash
+echo -e $((WATER + STIR)) | tr '01234567' 'bestchol't
